@@ -1,0 +1,14 @@
+Characteristics of big data:
+ 	 
+ 	The 5 v's of big data describe the characteristics of big data :
+ 	 
+ 	I.) VOLUME:It describes the size of data.there will be a huge pile of data stored by each individual.
+ 	II.) VELOCITY:the speed at which data is generated and retrived from a huge amount of data.
+ 	III.) VARIETY: the data stored will be in various form like image,PDF etc.which will not be alike the 
+ 	management of those irrelevant data refers to variety.
+ 	IV.) VERACITY: Big Data Veracity refers to the biases, noise and abnormality in data. Is the data that is being stored
+ 	veracity in data analysis is the biggest challenge. 
+ 	V.) VALUE: The costs of compute, storage, and connectivity resources are plunging, and new technologies like scanners, smartphones, 
+ 	video, and other data-collectors mean that there is a huge volumes of data what was available even five 
+ 	to 10 years ago.We capture every mouse click, phone call, text message, Web search, transaction, and more. As the volume 
+ 	of data grows, we can learn more – but only if we uncover the meaningful relationships and patterns.
